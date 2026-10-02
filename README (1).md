@@ -172,12 +172,6 @@ A full-stack campus housing administration platform.
 
 ### Languages
 
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![Java](https://skillicons.dev/icons?i=java)
-![C](https://skillicons.dev/icons?i=c)
-![Bash](https://skillicons.dev/icons?i=bash)
-![Go](https://skillicons.dev/icons?i=go)
 
 ### Frontend
 
@@ -187,15 +181,7 @@ A full-stack campus housing administration platform.
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Vite](https://skillicons.dev/icons?i=vite)
 
-### Backend & Database
 
-![Node](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Flask](https://skillicons.dev/icons?i=flask)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ---
 
@@ -221,36 +207,6 @@ A full-stack campus housing administration platform.
 ```
 
 ---
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sujalgayakwad&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5A5F&icon_color=FF6B35&text_color=FFFFFF"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujalgayakwad&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5A5F&text_color=FFFFFF"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sujalgayakwad&theme=radical&hide_border=true&background=0D1117&ring=FF5A5F&fire=FF6B35&currStreakLabel=FFFFFF"/>
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
 
 ---
 
